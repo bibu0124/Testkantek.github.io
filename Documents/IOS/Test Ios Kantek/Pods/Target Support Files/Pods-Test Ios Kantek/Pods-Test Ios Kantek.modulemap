@@ -1,0 +1,6 @@
+framework module Pods_Test_Ios_Kantek {
+  umbrella header "Pods-Test Ios Kantek-umbrella.h"
+
+  export *
+  module * { export * }
+}
